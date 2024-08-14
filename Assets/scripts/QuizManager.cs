@@ -92,12 +92,22 @@ public class QuizManager : MonoBehaviour
             }
 
         }
+        else
+            Debug.Log("you are selecting non-exist question");
+        for (int i = 0; i < 4; i++)
+            if (selectedQuestion.questionChoices[i] == selectedQuestion.correctChoice)
+            {
+                GameObject backdrop = GameObject.Find("Image1");
+                foreach (Transform child in backdrop.transform)
+                {
+                    child.gameObject.SetActive(true);
+                }
+                backdrop.transform.GetChild(i).gameObject.SetActive(false);
+            }
         /*else if(level==)
         {
             this is for any other question
         }*/
-        else
-            Debug.Log("you are selecting non-exist question");
 
     }
 

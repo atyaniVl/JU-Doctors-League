@@ -12,6 +12,7 @@ public class Timer : MonoBehaviour
     [SerializeField] Stage3UI stage3UI;
     [SerializeField] Color normalCol;
     [SerializeField] Button timerBTN;
+    public Animation anim;
 
     void Start()
     {
@@ -24,10 +25,12 @@ public class Timer : MonoBehaviour
         StartCoroutine(timer());
         SoundManager.instance.timerSound();
         timerBTN.interactable = false;
+        anim.Play();
     }
     public void stopTimer()
     {
         isTimerRunning = false;
+        anim.Stop();
         StopCoroutine(timer());
         timeText.text = "00:00";
         SoundManager.instance.timerSoundEnd();

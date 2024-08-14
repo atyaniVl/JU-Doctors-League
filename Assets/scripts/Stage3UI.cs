@@ -1,3 +1,4 @@
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -7,6 +8,8 @@ public class Stage3UI : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI questionText, ramaining_questions, correctOrWrong;
     [SerializeField] private int startQuestionsCount;
+    [SerializeField] private int lenth;
+
     private int questionsCount;
 
     [SerializeField] private List<Button> options;
@@ -112,7 +115,7 @@ public class Stage3UI : MonoBehaviour
         else if (label == 4)
         {
             TypeSelectBlock_setActive(false);
-            QuestionBlock_setActive(false);
+            QuestionBlock_setActive(true);
             AnswerReturnBlock_setActive(false);
             timeOutBlock_setActive(true);
         }
@@ -125,12 +128,16 @@ public class Stage3UI : MonoBehaviour
         NextLevel(2);
         question = selectedQuestion;
         questionImage.enabled = false;
+        //StartCoroutine(ShowText(questionText, question.questionInfo, -3f));
+        //lenth = question.questionInfo.Length;
         questionText.text = question.questionInfo;
         List<string> answerList = new List<string>(question.questionChoices);
         char CHAR = 'a';
         for (int i = 0; i < options.Count; i++)
         {
-            options[i].GetComponentInChildren<TMP_Text>().text = CHAR++ +")"+ answerList[i];
+            options[i].GetComponentInChildren<TMP_Text>().text = CHAR++ +")  "+answerList[i];
+            //StartCoroutine(ShowText(options[i].GetComponentInChildren<TextMeshProUGUI>(), CHAR++ + ")" + answerList[i], lenth));
+            //lenth = lenth + (CHAR + ")" + answerList[i]).Length;
             options[i].name = answerList[i];
         }
             ramaining_questions.text = (--questionsCount).ToString();
@@ -192,11 +199,21 @@ public class Stage3UI : MonoBehaviour
             correctOrWrong.text ="error!!!!!!!!!!";
             correctOrWrong.color = Color.red;
         }
-        string one = 
         correctOrWrong.text = "the correct answer is:" + options[i].GetComponentInChildren<TMP_Text>().text;
         correctOrWrong.color = Color.green;
         NextLevel(3);
         timerObj.stopTimer();
+    }
+
+    IEnumerator ShowText(TextMeshProUGUI textComponent, string text, float kik)
+    {
+        yield return new WaitForSeconds(kik/40f);
+        textComponent.text = "";
+        foreach (char c in text)
+        {
+            textComponent.text += c;
+            yield return new WaitForSeconds(0.01f); // Adjust the delay to your preference
+        }
     }
 }
 

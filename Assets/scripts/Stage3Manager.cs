@@ -20,16 +20,26 @@ public class Stage3Manager : MonoBehaviour
     }
     public void Question_select()
     {
-            if (!isEmpty(finalQuestions) && quizUIobj.isRemaining())
-            {
-                int val = questionIndex++;
-                selectedQuestion = finalQuestions[val];
-                isThereImg = selectedQuestion.questionImage != null;
+        if (!isEmpty(finalQuestions) && quizUIobj.isRemaining())
+        {
+            int val = questionIndex++;
+            selectedQuestion = finalQuestions[val];
+            isThereImg = selectedQuestion.questionImage != null;
             quizUIobj.setQuestion(selectedQuestion, isThereImg);
-            }
-            else
+        }
+        else
+        {
+            Debug.Log("there are no question in the list");
+        }
+        for (int i = 0; i < 4; i++)
+            if (selectedQuestion.questionChoices[i] == selectedQuestion.correctChoice)
             {
-                Debug.Log("there are no question in the list");
+                GameObject backdrop = GameObject.Find("Image1");
+                foreach (Transform child in backdrop.transform)
+                {
+                    child.gameObject.SetActive(true);
+                }
+                backdrop.transform.GetChild(i).gameObject.SetActive(false);
             }
     }
     public bool Answer(string answered)
