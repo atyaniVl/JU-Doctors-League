@@ -3163,7 +3163,7 @@ MonoBehaviour:
     - Deficiency in alpha-1-antitrypsin
     - Deficiency of prolyl hydroxylase
     - Decreased elastase activity
-    correctChoice: 
+    correctChoice: Deficiency in alpha-1-antitrypsin
     questionImage: {fileID: 0}
   - questionInfo: Which of the following holds the heavy and light chains together
       to  make the three-dimensional structure of the antibody?
@@ -6349,8 +6349,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 953, y: 517}
-  m_SizeDelta: {x: 597.5608, y: 139.2999}
+  m_AnchoredPosition: {x: 953, y: 469.4362}
+  m_SizeDelta: {x: 597.5608, y: 234.4275}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2115032892
 MonoBehaviour:

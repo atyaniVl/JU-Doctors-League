@@ -233,7 +233,7 @@ public class UI_manager : MonoBehaviour
             }
             else
             {
-                correctOrWrong.text = "wrong answer!";
+                correctOrWrong.text = "wrong answer! the right answer is " + quiz_manager.GetRightAnswer();
                 correctOrWrong.color = Color.red;
                 SoundManager.instance.wrongSound();
             }

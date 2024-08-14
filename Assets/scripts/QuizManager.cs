@@ -120,6 +120,19 @@ public class QuizManager : MonoBehaviour
         else
             return correctAns;
     }
+    public string GetRightAnswer()
+    {
+        char CHAR = 'a';
+        for(int i=0; i<4; i++)
+        {
+            if(selectedQuestion.questionChoices[i]== selectedQuestion.correctChoice)
+            {
+                break;
+            }
+            CHAR++;
+        }
+        return CHAR+") "+selectedQuestion.correctChoice;
+    }
 }
 [System.Serializable]
 public class Question
