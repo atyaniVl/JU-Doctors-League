@@ -3649,221 +3649,175 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   finalQuestions:
-  - questionInfo: 'A 25-year-old man involved in purchasing drugs was knifed in the
-      abdomen in the left upper quadrant. On examination in the emergency department,
-      it was difficult to determine whether the knife had penetrated into the peritoneal
-      cavity. It was decided to do a midline peritoneal lavage below the umbilicus
-      to see if there was any free blood in the peritoneal cavity. The following
-      layers of tissue were penetrated by the trocar and cannula to enter the peritoneal
-      cavity except which? '
+  - questionInfo: Which factor primarily determines the differential biological activity
+      of  enantiomers?
     questionChoices:
-    - Fatty and membranous layers of superficial fascia
-    - Rectus sheath and rectus abdominis muscle
-    - Fascia transversalis
-    - Extraperitoneal tissue and parietal peritoneum
-    correctChoice: Rectus sheath and rectus abdominis muscle
+    - The difference in how each enantiomer rotates plane-polarized light.
+    - The distinct spatial arrangement around the chirality center.
+    - The difference in solubility between enantiomers in aqueous and non aqueous
+      environments.
+    - The unique ability of each enantiomer to form covalent bonds with  proteins.
+    correctChoice: The distinct spatial arrangement around the chirality center.
     questionImage: {fileID: 0}
-  - questionInfo: The following statements concerning the right lung are true except
-      which?
+  - questionInfo: "An esophageal biopsy sample form a 47-year-old male with chronic 
+      heartburn reveals intestinal metaplasia, which of the following abnormal cell 
+      types is likely present in this patient\u2019s esophagus."
     questionChoices:
-    - It possesses a horizontal and an oblique fissure.
-    - Its covering of visceral pleura is sensitive to pain and temperature.
-    - The lymph from the substance of the lung reaches the hilum by the superficial
-      and deep lymphatic plexuses.
-    - The bronchial veins drain into the azygos and hemiazygos veins
-    correctChoice: Its covering of visceral pleura is sensitive to pain and temperature.
+    - simple cuboidal epithelium
+    - Pseudo stratified related kilometer epithelium
+    - Poly morph nuclear leukocytes
+    - Goblet cells
+    correctChoice: Goblet cells
     questionImage: {fileID: 0}
-  - questionInfo: 'The absence of a body makes the ___ vertebra atypical: '
+  - questionInfo: "A 28-year old woman comes to the ER with acute onset of abdominal
+      pain ,  nausea and confusion . She has no significant past medical history
+      and does  not use tobacco or alcohol as they have made her feel sick in the
+      past .  serum lipase and liver function tests are within normal limits . CT
+      scan of the  abdomen shows no abnormalities . A sample of her urine is reddish
+      in color  and darkens on standing for 24 hours. Intravenous dextrose is administered 
+      and her symptoms improve significantly . Dextrose infusion most likely  improved
+      this patient\u2019s condition by affecting which of the following  pathways
+      ?"
     questionChoices:
-    - 1st cervical
-    - 2nd cervical
-    - 3rd thoracic
-    - 4th thoracic
-    correctChoice: 1st cervical
+    - Gluconeogenesis
+    - Purine degradation
+    - Porphyrin synthesis
+    - Fatty acid synthesis
+    correctChoice: Porphyrin synthesis
     questionImage: {fileID: 0}
-  - questionInfo: 'A 55-year-old woman has severe aortic incompetence, with the blood
-      returning to the cavity of the left ventricle during ventricular diastole.
-      To hear the aortic valve with the least interference from the other heart sounds,
-      the best place to place your stethoscope on the chest wall is :'
+  - questionInfo: "A 57-year-old woman is brought to the emergency department after
+      an episode  of hematemesis. Medical history is notable for hypertension, peripheral
+      vascular  disease, atrial fibrillation, and acute cystitis diagnosed three
+      days ago. The  patient takes furosemide, rivaroxaban, and trimethoprim-sulfamethoxazole. 
+      Temperature is 37.7\xB0C, pulse is 76bpm, and blood pressure is 138/75 mmHg. 
+      Dried blood is noticed around the patient\u2019s mouth. Mild epigastric tenderness
+      is  elicited with palpation of the abdomen. Which of the following best explains
+      the  cause of this patient\u2019s symptoms?"
     questionChoices:
-    - the right half of the lower end of the body of the sternum.
-    - the medial end of the second right intercostal space.
-    - the medial end of the second left intercostal space.
-    - the fifth left intercostal space 3.5 in. (9 cm) from the midline.
-    correctChoice: the medial end of the second right intercostal space.
+    - 'Perforation of distended esophageal vessel '
+    - Inhibition of cytochrome P450 enzyme
+    - Loss of clotting factors in urine
+    - Formation of autoantibodies against platelet factor
+    correctChoice: Inhibition of cytochrome P450 enzyme
     questionImage: {fileID: 0}
-  - questionInfo: 'The orbicularis oculi muscle is innervated by the:'
+  - questionInfo: A 15-year old girl is evaluated due to persistent fever, fatigue
+      , and sore  throat . Physical examination reveals splenomegaly and symmetric 
+      posterior cervical lymphadenopathy . Peripheral blood smear results  are shown
+      in the image below .The atypical cells seen here are most likely an activated
+      form of which of the  following ?
     questionChoices:
-    - facial nerve
-    - lacrimal nerve
-    - maxillary nerve
-    - nasociliary nerve
-    correctChoice: facial nerve
+    - CD4+ Helper lymphocytes
+    - CD8+ Cytotoxic lymphocytes
+    - CD14+ Monocytes
+    - CD21+ Lymphocytes
+    correctChoice: CD8+ Cytotoxic lymphocytes
+    questionImage: {fileID: 21300000, guid: 0e6035b335750464584ceb78967a23fe, type: 3}
+  - questionInfo: When stained with Congo red, which of the following will exhibit
+      an  apple green color?
+    questionChoices:
+    - Anaplastic thyroid carcinoma
+    - Follicular thyroid carcinoma
+    - Medullary thyroid carcinoma
+    - Papillary thyroid carcinoma
+    correctChoice: Medullary thyroid carcinoma
     questionImage: {fileID: 0}
-  - questionInfo: Which of the following muscles partially inserts on the articular
-      disc of the temporomandibular joint?
+  - questionInfo: Why does the addition of H2 to C2H4 (ethylene) occur in a cis orientation?
     questionChoices:
-    - Medial pterygoid
-    - Anterior fibers of the temporalis
-    - Posterior fibers of the temporalis
-    - Lateral pterygoid
-    correctChoice: Lateral pterygoid
+    - The addition of H2 to C2H4 occurs through a syn addition  mechanism on a metal
+      catalyst, resulting in both hydrogen atoms  adding to the same side of the
+      double bond.
+    - 'The addition of H2 to C2H4 is driven by the anti addition  mechanism, which
+      places hydrogen atoms on opposite sides of  the double bond. '
+    - 'The cis orientation is a result of hydrogen atoms preferring to add  to the
+      less substituted carbon atoms. '
+    - 'The reaction intermediates favor the trans orientation, but steric  hindrance
+      forces the addition to be in the cis orientation. '
+    correctChoice: The addition of H2 to C2H4 occurs through a syn addition  mechanism
+      on a metal catalyst, resulting in both hydrogen atoms  adding to the same side
+      of the double bond.
     questionImage: {fileID: 0}
-  - questionInfo: 'The neck is divided into anterior and posterior triangles using
-      ____ muscle as land mark: '
+  - questionInfo: Which laboratory finding is most characteristic of post-streptococcal 
+      glomerulonephritis?
     questionChoices:
-    - 'Anterior belly of digastric '
-    - Sternocleidomastoid
-    - 'Scalenus anterior '
-    - Sternohyoid
-    correctChoice: Sternocleidomastoid
+    - elevated serum IGA levels
+    - Normal complement levels (C3 and C4)
+    - Elevated anti-strep to license oh (ASO) titer
+    - Hematuria within 1-2 days of an upper respiratory infection
+    correctChoice: Elevated anti-strep to license oh (ASO) titer
     questionImage: {fileID: 0}
-  - questionInfo: 'The superior orbital fissure is a gap within the ___ bone: '
+  - questionInfo: During a neurology lecture, students learn that the thalamus is
+      the central  relay station for all ascending sensory information, except for
+      olfaction. Which  of the following thalamic nuclei relays auditory information?
     questionChoices:
-    - Frontal
-    - Parietal
-    - Sphenoid
-    - Temporal
-    correctChoice: Sphenoid
+    - Medial geniculate nucleus
+    - Lateral geniculate nucleus
+    - Ventral posterolateral nucleus
+    - Ventral posteromedial nucleus
+    correctChoice: Medial geniculate nucleus
     questionImage: {fileID: 0}
-  - questionInfo: 'In a gouty patient on allopurinol treatment who develops a malignancy,
-      the administration of the following anticancer drug could result in more side
-      effects because of reduced metabolism:'
+  - questionInfo: A B-blocker was prescribed for hypertension in a patient with asthma.
+      After a  week of treatment, the asthma attacks got worse, and the patient was
+      asked  to stop taking the B-blocker. Which B-blocker would you suggest as an 
+      alternative that is less likely to worsen the asthma?
     questionChoices:
-    - Cytarabine
-    - Methotrexate
-    - 6- Mercaptopurine
-    - 5-Fluorouracil
-    correctChoice: 6- Mercaptopurine
+    - Propranolol
+    - Metoprolol
+    - Labetalol
+    - Carvedilol
+    correctChoice: Metoprolol
     questionImage: {fileID: 0}
-  - questionInfo: "When an individual is standing, the base of the lung relative
-      to the apex of the lung has a: Greater (\u2191), smaller (\u2193), Equal (\u2194)"
+  - questionInfo: If an excessive amount of alkali is ingested, what physiological 
+      compensation is most likely to occur to moderate the resulting changes in 
+      blood pH?
     questionChoices:
-    - A
-    - B
-    - C
-    - D
-    correctChoice: B
-    questionImage: {fileID: 21300000, guid: 55c3070a5d61d6e49bd0bd761cc9eb14, type: 3}
-  - questionInfo: 'A 32-year-old patient diagnosed with chronic inflammatory bowel
-      disease, ulcerative colitis type, which of the following features is most likely
-      an associated condition:'
-    questionChoices:
-    - Noncaseating granulomas on microscopic examination.
-    - Primary sclerosing cholangitis.
-    - Transmural colonic inflammation.
-    - Intestinal strictures.
-    correctChoice: Primary sclerosing cholangitis.
+    - Respiratory compensation through an increase in CO2 retention.
+    - Respiratory compensation through an increase in H2 retention.
+    - Metabolic compensation through an increase in H+ reabsorption.
+    - Metabolic compensation through a decrease in HCO3-reabsorption.
+    correctChoice: Respiratory compensation through an increase in CO2 retention.
     questionImage: {fileID: 0}
-  - questionInfo: A 65 year old gentleman who smoked at least one pack of cigarettes
-      per day for the past 25 years presented with progressive breathing difficulty.
-      His pulmonary function test results showed marked airway obstruction. Which
-      of the following respiratory tract structures in the lungs is likely to be
-      affected initially and mostly by the underlying disease?
+  - questionInfo: A clinician is concerned that an Rh-negative mother may be pregnant 
+      with an Rh-positive fetus. The potential pathology that the clinician is  concerned
+      about is classified as which of the following immune  reactions?
     questionChoices:
-    - Alveolar duct and sac
-    - Terminal bronchioles
-    - Respiratory bronchioles
-    - Pulmonary capillaries
-    correctChoice: Respiratory bronchioles
+    - Graft-versus-host disease
+    - Type I hypersensitivity
+    - Type II hypersensitivity
+    - 'Type III hypersensitivity '
+    correctChoice: Type II hypersensitivity
     questionImage: {fileID: 0}
-  - questionInfo: Which lymphoma that tends to cause significant facial disfigurement?
+  - questionInfo: A 32-year-old female presents for evaluation of fatigue. She is
+      a runner and  typically runs approximately 25 miles per week. For the past
+      week, she has been  unable to complete a one-mile run. She denies fever, cough
+      or chest pain. Pulse is  60/min and blood pressure is 120/80 mmHg. Lungs are
+      clear and jugular venous  pressure is normal. A 3/6 holosystolic murmur is
+      heard at the cardiac apex. ECG  shows normal sinus rhythm with a normal axis
+      and intervals. Prior clinic notes  document a systolic click with no murmur.
+      Which of the following is expected in this  patient at rest for cardiac output
+      and pulse pressure compared to a normal patient  of similar size?
     questionChoices:
-    - Hodgkin lymphoma
-    - Diffuse large B-cell lymphoma
-    - Mantle cell lymphoma
-    - Burkitt lymphoma
-    correctChoice: Burkitt lymphoma
+    - Both are decreased
+    - Both are increased
+    - "Cardiac output is increased while there\u2019s no change in pulse pressure"
+    - Cardiac output is increased while pulse pressure is decreased
+    correctChoice: "Cardiac output is increased while there\u2019s no change in pulse
+      pressure"
     questionImage: {fileID: 0}
-  - questionInfo: 'The ___ artery exits the middle cranial fossa through the optic
-      canal:'
+  - questionInfo: John, a 35-year-old avid tennis player, participates in a weekend
+      tennis  tournament. During the final match, John lunges forward to reach a
+      low,  fast-moving ball. As he extends his arm to hit the ball with full force,
+      he  feels a sharp pain in his shoulder and chest. Post-match, John notices 
+      persistent pain around his shoulder blade (scapula) and difficulty lifting
+      his  arm above his head. His shoulder blade appears to protrude abnormally 
+      when he pushes against a wall. What is the nerve that was damaged and  the
+      muscle it supplies?
     questionChoices:
-    - Buccal
-    - Pterygoid
-    - Masseteric
-    - Ophthalmic
-    correctChoice: Ophthalmic
+    - Long thoracic nerve, supraspinatous
+    - Suprascapular nerve, serratus anterior
+    - Long thoracic nerve, serratus anterior
+    - Suprascapular nerve, supraspinatous
+    correctChoice: Long thoracic nerve, serratus anterior
     questionImage: {fileID: 0}
-  - questionInfo: Which bacterial structure is inhibited by vancomycin?
-    questionChoices:
-    - Cell membrane
-    - Ribosomes
-    - Cell wall (peptidoglycan layer)
-    - Flagella
-    correctChoice: Cell wall (peptidoglycan layer)
-    questionImage: {fileID: 0}
-  - questionInfo: Which selective differential solid culture media is used to diagnose
-      cholera?
-    questionChoices:
-    - MacConkey agar
-    - Blood agar
-    - 'Thiosulfate Citrate Bile Salts Sucrose (TCBS) agar '
-    - Chocolate agar
-    correctChoice: 'Thiosulfate Citrate Bile Salts Sucrose (TCBS) agar '
-    questionImage: {fileID: 0}
-  - questionInfo: Which of the following childhood exanthems should be treated with
-      antibiotics?
-    questionChoices:
-    - 'Measles '
-    - Chickenpox
-    - Scarlet fever
-    - Fifth disease
-    correctChoice: Scarlet fever
-    questionImage: {fileID: 0}
-  - questionInfo: Which organism causes Beaver fever?
-    questionChoices:
-    - Giardia
-    - Salmonella
-    - 'E. coli '
-    - Cryptosporidium
-    correctChoice: Giardia
-    questionImage: {fileID: 0}
-  - questionInfo: Which of the following viruses threatened the Panama canal-building
-      effort?
-    questionChoices:
-    - Zika virus
-    - Dengue virus
-    - Yellow fever virus
-    - Chikungunya virus
-    correctChoice: Yellow fever virus
-    questionImage: {fileID: 0}
-  - questionInfo: Which of the following bacterial pathogens is commonly associated
-      with hyponatremia in pneumonia cases?
-    questionChoices:
-    - Streptococcus pneumoniae
-    - Legionella pneumophila
-    - Haemophilus influenzae
-    - Mycoplasma pneumoniae
-    correctChoice: Legionella pneumophila
-    questionImage: {fileID: 0}
-  - questionInfo: Which cytokine would result in the production of a dimeric antibody
-      during immunoglobulin isotype switching?
-    questionChoices:
-    - Interleukin-4
-    - Interleukin-2
-    - Transforming growth factor beta
-    - Interferon-gamma
-    correctChoice: Interleukin-4
-    questionImage: {fileID: 0}
-  - questionInfo: "ATP hydrolysis reaction is given as: (ATP \u2192 ADP + Pi). According
-      to the following table, the cell with highest yield of energy from ATP hydrolysis
-      is:"
-    questionChoices:
-    - A
-    - B
-    - C
-    - D
-    correctChoice: D
-    questionImage: {fileID: 21300000, guid: 561d79f122b87594d8d26f56dfc64a05, type: 3}
-  - questionInfo: With respect to the value of delta G given for each reaction. Which
-      reaction is the fastest?
-    questionChoices:
-    - Reactions 1 and 2 are about the same speed
-    - Reaction 4 is the fastest
-    - Reactions 3 and 4 are about the same speed
-    - I cannot tell
-    correctChoice: I cannot tell
-    questionImage: {fileID: 21300000, guid: d1f3ae62bef23c84985136a5fc714605, type: 3}
   quizUIobj: {fileID: 609381636}
   timerObj: {fileID: 1981497918}
 --- !u!1 &1050682124
