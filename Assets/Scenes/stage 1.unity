@@ -3085,398 +3085,318 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _30pointQ:
-  - questionInfo: "What does \u201Cpharmacokinetics\u201D include?"
+  - questionInfo: ' IV drug usage is a unique risk factor for infective endocarditis 
+      affecting the:'
     questionChoices:
-    - Pharmacological effects of drugs.
-    - Unwanted effects of drugs.
-    - Chemical structure of a medicinal agent.
-    - Distribution of drugs in the organism.
-    correctChoice: Distribution of drugs in the organism.
+    - Tricuspid valve
+    - Pulmonary valve
+    - 'Aortic valve '
+    - Mitral valve
+    correctChoice: Tricuspid valve
     questionImage: {fileID: 0}
-  - questionInfo: 'The main mechanism of most drugs absorption in GI tract is:'
+  - questionInfo: What is the best approach to calculating intracellular fluid  volume?
     questionChoices:
-    - Active transport (carrier-mediated diffusion).
-    - Filtration (aqueous diffusion).
-    - Endocytosis and exocytosis.
-    - Passive diffusion (lipid diffusion).
-    correctChoice: Passive diffusion (lipid diffusion).
+    - 'Using radioactive water '
+    - Using thiosulfate
+    - Using potassium
+    - "It can\u2019t be measured directly"
+    correctChoice: "It can\u2019t be measured directly"
     questionImage: {fileID: 0}
-  - questionInfo: "What does the term \u201Cbioavailability\u201D mean?"
+  - questionInfo: A type B blood group, Rh-positive recipient is mistakenly  transplanted
+      with a kidney from a type A blood group, Rh-negative  donor. Which of the following
+      best describes the mechanism of  transplant rejection that is most likely to
+      ensue in this recipient?
     questionChoices:
-    - Plasma protein binding degree of substance.
-    - Permeability through the brain-blood barrier.
-    - Fraction of an uncharged drug reaching the systemic circulation following any
-      route administration.
-    - Amount of a substance in urine relative to the initial doze.
-    correctChoice: Fraction of an uncharged drug reaching the systemic circulation
-      following any route administration.
+    - Acute rejection mediated by preformed recipient antibodies
+    - Acute rejection mediated by recipient T lymphocytes
+    - 'Hyperacute rejection mediated by preformed donor  antibodies '
+    - Hyperacute rejection mediated by preformed recipient  antibodies
+    correctChoice: Hyperacute rejection mediated by preformed recipient  antibodies
     questionImage: {fileID: 0}
-  - questionInfo: Who is the scientist that give the term hormone to the chemicals
-      secreted from endocrine  glands?
+  - questionInfo: 'The wrong statement about cranial nerves:'
     questionChoices:
-    - Starling.
-    - Frank.
-    - Guyton.
-    - Ganong.
-    correctChoice: Starling.
+    - The fifth cranial nerve is motor to the muscles of mastication
+    - 'The eighth cranial nerve is purely sensory  '
+    - 'They do not all originate from the brain stem '
+    - The tenth cranial nerve is motor to trapezius muscle
+    correctChoice: The tenth cranial nerve is motor to trapezius muscle
     questionImage: {fileID: 0}
-  - questionInfo: Where is the cardiac pacemaker located?
+  - questionInfo: 'As part of an experiment, radiolabeled ATP is injected into skeletal 
+      muscle. During muscle contraction, the labeled ATP is observed to  attach to
+      the sarcomere. This attachment causes immediate:'
     questionChoices:
-    - Left ventricle.
-    - Right ventricle.
-    - Right atrium.
-    - Left atrium.
-    correctChoice: Right atrium.
+    - Calcium binding to troponin C
+    - Tropomyosin displacement from the groove on the actin molecule
+    - 'Myosin head detachment from the actin filament '
+    - Cross-bridge formation
+    correctChoice: 'Myosin head detachment from the actin filament '
     questionImage: {fileID: 0}
-  - questionInfo: The cells that work as a gastrointestinal system pacemaker is?
+  - questionInfo: Which type of lung tumor is known for being the most aggressive
+      and  widely metastatic?
     questionChoices:
-    - Cells of Cajal.
-    - Cells of Langerhans.
-    - Bitz cell.
-    - "Peyer\u2019s cells."
-    correctChoice: Cells of Cajal.
+    - Adenocarcinoma
+    - Small cell lung carcinoma
+    - Large cell neuroendocrine carcinoma
+    - Squamous cell carcinoma
+    correctChoice: Small cell lung carcinoma
     questionImage: {fileID: 0}
-  - questionInfo: If the heart rate is 100/minutes what is the time of one cardiac
-      cycle?
+  - questionInfo: How do cis and trans configurations of fatty acids affect membrane
+      fluidity?
     questionChoices:
-    - 0.8 seconds.
-    - 1.0 second.
-    - 1.2 seconds.
-    - 0.6 seconds.
-    correctChoice: 1.2 seconds.
+    - Both cis and trans configurations increase membrane rigidity by  altering hydrogen
+      bonding.
+    - 'Cis double bonds disrupt Van der Waals interactions, enhancing  fluidity;
+      trans double bonds do not. '
+    - Cis configurations create kinks, increasing fluidity; trans configurations 
+      are linear, decreasing fluidity.
+    - Cis configurations form looser hydrophobic interactions, increasing  fluidity;
+      trans configurations promote a gel-like state, decreasing  fluidity.
+    correctChoice: Cis configurations create kinks, increasing fluidity; trans configurations 
+      are linear, decreasing fluidity.
     questionImage: {fileID: 0}
-  - questionInfo: What the respiratory rate if inhalation take 1.2 second and Exhalation
-      takes 1.8 second?
+  - questionInfo: "A 30-year-old woman of northern Europe ancestry presents with 
+      progressive dyspnea. She denies the use of cigarettes. Family history  reveals
+      that her sister also has problems with her lungs. Which of the  following most
+      likely explains the patient\u2019s pulmonary symptoms?"
     questionChoices:
-    - 12 breaths per minute
-    - 15 breaths per minute
-    - 25 breaths per minute
-    - 33 breaths per minute
-    correctChoice: 33 breaths per minute
+    - Deficiency in dietary vitamin C
+    - Deficiency in alpha-1-antitrypsin
+    - Deficiency of prolyl hydroxylase
+    - Decreased elastase activity
+    correctChoice: 
     questionImage: {fileID: 0}
-  - questionInfo: Which of the following is the most likely cause for black discoloration
-      of the bronchial lymph nodes in a smoker?
+  - questionInfo: Which of the following holds the heavy and light chains together
+      to  make the three-dimensional structure of the antibody?
     questionChoices:
-    - Anthracotic pigment
-    - Melanin pigment
-    - Lipofuscin pigment
-    - Bilirubin
-    correctChoice: Anthracotic pigment
+    - Disulfide bonds
+    - Hydrogen bonds
+    - Ionic bonds
+    - Triple covalent bonds
+    correctChoice: Disulfide bonds
     questionImage: {fileID: 0}
-  - questionInfo: Cerebral infarction (stroke), most likely results in which of the
-      following changes at the tissue level?
+  - questionInfo: 'Mononuclear phagocyte system, chose the incorrect statement:'
     questionChoices:
-    - Liquifactive necrosis
-    - Coagulative necrosis
-    - Caseous necrosis
-    - Apoptosis
-    correctChoice: Liquifactive necrosis
+    - Kupffer cells have the same function as macrophages in the liver
+    - Langerhans cells are specialized in antigen processing and  presentation in
+      the spleen
+    - 'Osteoclasts are giant multi nuclear cells '
+    - 'All choices are correct '
+    correctChoice: Langerhans cells are specialized in antigen processing and  presentation
+      in the spleen
     questionImage: {fileID: 0}
-  - questionInfo: A 36-year-old woman has been taking aspirin for rheumatoid arthritis.
-      Her joint pain is relieved. This pain reduction is most likely to be the result
-      of diminishing which of the following chemical mediators?
+  - questionInfo: 'One of the following is correct regarding the pathogenesis of
+      Erythema  infectiosum:'
     questionChoices:
-    - Leukotriene B4
-    - Interleukin-1
-    - Prostaglandin
-    - Hageman factor
-    correctChoice: Prostaglandin
+    - The rash result from immune reaction to the virus manifesting in  the skin.
+    - 'The symptoms arise from immune complex deposition in the skin  and joints. '
+    - The virus attaches to epithelial cells in the gut.
+    - ' Exanthem results from neutralizing antibodies in the  bloodstream.'
+    correctChoice: 'The symptoms arise from immune complex deposition in the skin 
+      and joints. '
     questionImage: {fileID: 0}
-  - questionInfo: 'The appearance of brush border in certain types of epithelium
-      is due to:'
+  - questionInfo: A 75-year-old male dies and autopsy specimens are harvested from
+      his  brain. Histology is shown below. Prior to his death the patient suffered 
+      progressive functional deterioration with onset 10 years previous. At the 
+      age of 65, a tremor was noticed in his right hand. Initially the tremor only 
+      occurred at rest but with disease progression became noticeable during  purposeful
+      movement as well. At age 70, the tremor progressed to  include his left hand.
+      The patient's gait also became impaired as he had  short stride and limited
+      arm-swing. Which of the following best  describes the pathogenesis of the patient's
+      disease process?
     questionChoices:
-    - Presence of desmosomes
-    - Presence of microvilli
-    - Presence of mucus
-    - Presence of cilia
-    correctChoice: Presence of microvilli
-    questionImage: {fileID: 0}
-  - questionInfo: 'Connexins are found in:'
-    questionChoices:
-    - Adherens juctions
-    - Tight junctions
-    - Gap junctions
-    - Fascia adherens
-    correctChoice: Gap junctions
-    questionImage: {fileID: 0}
-  - questionInfo: 'According to secretory mechanisms, sebaceous glands are:'
-    questionChoices:
-    - Holocrine
-    - Paracrine
-    - Merocrine
-    - Endocrine
-    correctChoice: Holocrine
-    questionImage: {fileID: 0}
-  - questionInfo: Which cell type gives rise to both memory and effector cells and
-      is primarily associated with humoral immunity?
-    questionChoices:
-    - B lymphocyte
-    - Macrophage
-    - Reticular cell
-    - Natural killer cell
-    correctChoice: B lymphocyte
-    questionImage: {fileID: 0}
-  - questionInfo: Which structure will express CD8 surface antigen by immunohistochemistry?
-    questionChoices:
-    - Outer cortex of lymph nodes
-    - Bone marrow
-    - Paracortex of lymph nodes
-    - Splenic cords
-    correctChoice: Paracortex of lymph nodes
-    questionImage: {fileID: 0}
-  - questionInfo: Which lymphoid organ normally become less functional with age?
-    questionChoices:
-    - Splenic white pulp
-    - Splenic red pulp
-    - Thymus
-    - 'Lingual tonsils '
-    correctChoice: Thymus
-    questionImage: {fileID: 0}
-  - questionInfo: The tendency for edema to occur will be increased by
-    questionChoices:
-    - arteriolar constriction
-    - increased venous pressure
-    - increased plasma protein concentration
-    - muscular activity
-    correctChoice: increased venous pressure
+    - Cortical atrophy associated with b-amyloid plaques and  decreased cholinergic
+      activity
+    - Defective copper transport leading to the accumulation of copper  in tissues
+    - Loss of y-aminobutyric acidergic neurons in the caudate nucleus
+    - Loss of dopaminergic neurons in the substantia nigra
+    correctChoice: Loss of dopaminergic neurons in the substantia nigra
     questionImage: {fileID: 0}
   _50pointQ:
-  - questionInfo: "A 23-year old man is evaluated for excessive bruising since childhood.
-      He says some of his family members \u201Cbleed easily\u201D and sometimes require
-      blood transfusions. Temperature is 36.7C\xBA (98.1F). Physical examination
-      is unremarkable. Complete blood count is unremarkable. Platelet aggregometry
-      is abnormal. Genetic testing identifies a defect in a platelet surface glycoprotein
-      receptor that normally binds fibrinogen to support platelet aggregation. The
-      abnormal glycoprotein receptor found in this patient is most likely targeted
-      by which of the following medication?"
+  - questionInfo: "An elderly patient is diagnosed with aggressive non-Hodgkin\u2019s 
+      lymphoma. the tumor cells are shown to stain strongly for the CD20  marker.
+      Which of the following biologic agents can be added to this  patient\u2019s
+      chemotherapy regimen to help improve the treatment  response? "
     questionChoices:
-    - Abciximab
-    - Argatroban
-    - Aspirin
-    - Clopidogrel
-    correctChoice: Abciximab
+    - Infliximab
+    - Rituximab
+    - Interleukin-2
+    - Imatinib
+    correctChoice: Rituximab
     questionImage: {fileID: 0}
-  - questionInfo: 'Prolonged QT interval and Buffalo hump appearance are characteristic
-      features of:'
+  - questionInfo: A group of investigators examined the effects of different muscarinic 
+      agonists and antagonists on the bladder musculature. The curves  presented
+      below were constructed after application of different agents.  Curve A represents
+      the effect of bethanechol, a pure cholinergic  agonist. Which of the curves
+      most likely represents the effect of  bethanechol after application of a reversible
+      competitive antagonist?
     questionChoices:
-    - Protease inhibitors
-    - Fusion Inhibitors
-    - NRTs
-    - NNRTs
-    correctChoice: Protease inhibitors
+    - Curve D
+    - Curve B
+    - Curve C
+    - Curve E
+    correctChoice: Curve E
+    questionImage: {fileID: 21300000, guid: 60ecafdf1113fa447acf78a70a773e95, type: 3}
+  - questionInfo: 23-year-old man is brought to the emergency department due to 
+      weakness and confusion. Family members reported that for the last two  weeks
+      he has experienced polyuria, polydipsia and increased appetite.  Medical history
+      is remarkable for an appendectomy at age 12. He also  has a brother with hypothyroidism.
+      On examination the patient is  lethargic and confused, but response to basic
+      commands. His breath  has a fruity order. This patient is most likely deficient
+      in a hormone that  normally performs which of the following actions.
+    questionChoices:
+    - decrease muscle protein synthesis
+    - Facilitates the action of glucagon
+    - Increases renal glucose reabsorption
+    - Decreases glucagon secretion
+    correctChoice: Decreases glucagon secretion
     questionImage: {fileID: 0}
-  - questionInfo: "Which of the following beta blockers is \u03B21 selective and
-      has nitric oxide potentiating vasodilatory effects?"
+  - questionInfo: A 26-year-old previously healthy man is brought to the emergency 
+      department following a motorbike accident. He is found to have a  maxillofacial
+      injury. His condition is stabilized, and surgical repair is  performed. While
+      recovering, the patient develops difficulty chewing  food. On examination,
+      the jaw deviates to the right side when the  patient is instructed to open
+      his mouth. The nerve that has been  injured in this patient exits the skull
+      through which of the following  foramina?
     questionChoices:
-    - Esmolol
-    - 'Carvedilol '
-    - 'Labetalol '
-    - Nebivolol
-    correctChoice: Nebivolol
+    - Foramen spinosum
+    - Foramen rotundum
+    - Foramen ovale
+    - Jugular foramen
+    correctChoice: Foramen ovale
     questionImage: {fileID: 0}
-  - questionInfo: 'A 58 year-old woman is being treated for chronic suppression of
-      a ventricular arrhythmia. After two months of therapy, she complains about
-      feeling tired most of the time. Laboratory tests indicated low thyroxine and
-      elevated thyroid-stimulating hormone levels. Which of the following drugs is
-      the likely cause:'
+  - questionInfo: 'A 6-month-old baby is brought to the emergency department by his 
+      mother because of recent onset of vomiting, irritability, and jaundice.  The
+      infant was born at term and had been healthy until the onset of the  symptoms.
+      All of his vaccinations are up to date. He had been breasted  exclusively until
+      one week ago when cereals and fruit juice were  introduced into his diet. Further
+      evaluation reveals hepatomegaly and  normal liver function tests, which of
+      the following enzymes is most likely  to be deficient in this patient:'
     questionChoices:
-    - Nifidipine
-    - Amiodarone
-    - Propranolol
-    - Quinidine
-    correctChoice: Amiodarone
+    - Galactose-1-phosphate uridyl transferase
+    - Aldolase B
+    - 'Fructokinase '
+    - Galactokinase
+    correctChoice: Aldolase B
     questionImage: {fileID: 0}
-  - questionInfo: 'In the Peruvian Andes where the atmospheric pressure is half the
-      normal sea level value, the PO2 of tracheal inspired gas is:'
+  - questionInfo: A 48-year-old man presents to the office because of perineal pain
+      for the past 4  months. He states that the pain is dull, constant and has been
+      interfering with  daily activities. He also reports mild pain during urination
+      but denies urinary  frequency, urgency or straining. Past medical history is
+      significant for migraine  headaches. Family history is unremarkable. Vitals
+      are within normal limits.  Physical examination including digital rectal examination
+      is normal. There is no  suprapubic pain on palpation. Urinalysis shows no abnormality.
+      Expressed  prostatic secretion shows 2 leukocytes/hpf, but culture does not
+      grow a  pathogenic organism. What is the most likely diagnosis in this patient?
     questionChoices:
-    - 60
-    - 70
-    - 80
-    - 90
-    correctChoice: 70
+    - Cystitis
+    - Chronic bacterial prostatitis
+    - Acute prostatitis
+    - 'Chronic abacterial prostatitis '
+    correctChoice: 'Chronic abacterial prostatitis '
     questionImage: {fileID: 0}
-  - questionInfo: "Which set of situations describes the elastic property of the
-      lung, chest wall & chest-lung system at a volume 500 ml greater than the FRC?
-      arrows are used to represent elastic force tending to make the mentioned structure
-      expands (\u2191) or collapse (\u2193)."
+  - questionInfo: The intracellular concentration of ion Z is 100 milliequivalents
+      per liter  (mEq/L), and the extracellular concentration is 5 mEq/L. The molecular 
+      weight of molecule Z is ~40 daltons. This relatively high intracellular  concentration
+      of molecule Z is best explained by which of the following?
     questionChoices:
-    - A
-    - B
-    - C
-    - D
-    correctChoice: D
-    questionImage: {fileID: 21300000, guid: fefa474fc1b85bf439e69c01bead37c4, type: 3}
-  - questionInfo: 'Lion-face deformity is characteristic of:'
-    questionChoices:
-    - Osteopetrosis
-    - Osteosarcoma
-    - Hyperparathyroidism
-    - Paget disease of bone
-    correctChoice: Paget disease of bone
-    questionImage: {fileID: 21300000, guid: 549296a0b8e76b743a4310ecccd2e020, type: 3}
-  - questionInfo: "The disease with ancient description of \u201Cdevil\u2019s bite\u201D
-      is characterized by:"
-    questionChoices:
-    - Bacterial infection
-    - Decreased bone mass
-    - Crystal deposition
-    - Ruptured tendon
-    correctChoice: Crystal deposition
-    questionImage: {fileID: 21300000, guid: dcc93afe27fc5094e97798645b54e60c, type: 3}
-  - questionInfo: 'Pseudohypertrophy of muscles is seen in a disease with:'
-    questionChoices:
-    - Trinucleotide repeat
-    - X-linked inheritance
-    - Benign tumor of adipose tissue
-    - Extracellular deposition of fibrillary material
-    correctChoice: X-linked inheritance
-    questionImage: {fileID: 21300000, guid: 0562c20a767be1e4396968b0292a3228, type: 3}
-  - questionInfo: Which of the following is characteristic for patients with hereditary
-      nonpolyposis colorectal cancer syndrome?
-    questionChoices:
-    - Inherited mutations in TP53 gene.
-    - 100% of patients develop colorectal adenocarcinoma by age of 30 if untreated.
-    - The most common polyps are hyperplastic polyps.
-    - Microsatellite instability is the hallmark of disease.
-    correctChoice: Microsatellite instability is the hallmark of disease.
+    - Extracellular assembly
+    - Facilitative diffusion
+    - Intracellular production
+    - Primary active transport
+    correctChoice: Primary active transport
     questionImage: {fileID: 0}
-  - questionInfo: Patients with Turcot syndrome develop what tumors in addition to
-      the typical manifestations of familial adenomatous polyposis?
+  - questionInfo: 'A hypersensitivity reaction due to antibodies against group A
+      streptococcal  antigens, these antibodies are cross reactive with host antigens
+      in the heart,  brain, joints and skin. One of the following is not a major
+      criterion for  diagnosing the described condition: '
     questionChoices:
-    - Desmoid tumors (fibromatosis)
-    - Gastrointestinal stromal tumors
-    - Keratoacanthomas
-    - Medulloblastomas
-    correctChoice: Medulloblastomas
+    - Erythema marginatum
+    - Prolonged PR interval
+    - Sydenham chorea
+    - Myocarditis
+    correctChoice: Prolonged PR interval
     questionImage: {fileID: 0}
-  - questionInfo: An 80 year old gentleman presented with progressive dyspnea of
-      5 months duration. On physical examination, he is afebrile. Radiography shows
-      a brightly attenuated pleural mass ensheathing most of the right lung. Microscopic
-      examination of a pleural biopsy specimen shows atypical spindle and cuboidal
-      cells infiltrating adjacent tissue. The condition that this patient mostly
-      has is associated with one of the following?
+  - questionInfo: A 70-year-old man develops the acute onset of an inability to speak. 
+      Examination reveals that he struggles to pronounce a complete word and  cannot
+      string words together. He is unable to repeat a sentence but can  follow simple
+      and multistep commands. What is the most likely diagnosis?
     questionChoices:
-    - Horner syndrome
-    - Distant metastasis
-    - Extensive pleural fibrosis
-    - carcinoid syndrome
-    correctChoice: Extensive pleural fibrosis
+    - 'Global aphasia '
+    - 'Conduction aphasia '
+    - Broca aphasia
+    - Wernicke aphasia
+    correctChoice: Broca aphasia
     questionImage: {fileID: 0}
-  - questionInfo: 'regarding the pathogenesis of atopic asthma, one of the following
-      statements is CORRECT: '
+  - questionInfo: 45-year-old women presents to her physician with a two day history
+      of  right upper quadrant pain, gas, and vomiting. She reports that her  symptoms
+      are worse after she eats a fatty meal which of the following  substances inhibits
+      the hormone, causing her right upper quadrant pain.
     questionChoices:
-    - 'The initial response upon first exposure is associated with type 1 T helper
-      lymphocytes activation '
-    - 'IL-4 and IL-5 are released from the alveolar macrophages during the early
-      phase response '
-    - 'Eotaxin is a potent chemoattractant and activator of eosinophils in late phase '
-    - 'Early phase is triggered by Antigen induced cross-linking of IgG bound to
-      receptors on mast cells '
-    correctChoice: 'Eotaxin is a potent chemoattractant and activator of eosinophils
-      in late phase '
+    - Cholycystokinin
+    - 'Gastrin '
+    - Pepsin
+    - Somatostatin
+    correctChoice: Somatostatin
     questionImage: {fileID: 0}
-  - questionInfo: A 39-year-old woman has had no menstrual periods for the past year,
-      along with malaise, cold intolerance, and loss of body hair. She has had headaches
-      for the past 5 months. On physical examination her lateral visual fields are
-      reduced. She is most likely to have a neoplasm composed of which of the following
-      cell types?
+  - questionInfo: 'The abnormal cleavage of mannose residues during the post translational
+      processing of glycoproteins has been shown to result in  the development of
+      a lupus-like autoimmune disease in mice. The  abnormal cleavage is due to a
+      mutation of the enzyme -mannosidase II.  Based on your understanding of the
+      processing of membrane proteins,  you would predict this enzyme to be localized
+      to the:'
     questionChoices:
-    - Chromaffin
-    - Chromophobe
-    - Glomerulosa
-    - Parafollicular
-    correctChoice: Chromophobe
+    - Peroxisome
+    - Cytosol
+    - Golgi apparatus
+    - Lysosomes
+    correctChoice: Golgi apparatus
     questionImage: {fileID: 0}
-  - questionInfo: 'A 28-year-old, otherwise healthy man has had headaches for the
-      past 2 weeks. Physical examination yields no remarkable findings except for
-      a blood pressure of 174/116 mm Hg. An abdominal CT scan shows an enlarged right
-      adrenal gland. A right adrenalectomy is done; the figure shows the gross appearance
-      of the specimen. Which of the following laboratory findings in his blood was
-      most likely reported in this patient before surgery? '
+  - questionInfo: A 23-year-old woman comes to the labor and delivery unit in active
+      labor. An  hour later, she gives birth to a stillborn infant. The patient states
+      that she did  not receive consistent prenatal care. An autopsy of the infant
+      reveals cyclopia  and cleft palate. Examination of the brain shows fused cerebral
+      hemispheres.  This condition was most likely caused by failure of differentiation
+      of which of  the following anatomical structures?
     questionChoices:
-    - Hyponatremia
-    - Hyperkalemia
-    - Low insulin level
-    - Low renin level
-    correctChoice: Low renin level
-    questionImage: {fileID: 0}
-  - questionInfo: 'A patient with acute myeloid leukemia had recurrent episodes of
-      aplastic anemia previously. The most likely pathologic condition is:'
-    questionChoices:
-    - PIGA gene mutation
-    - Mismatch repair defects
-    - Telomerase defects
-    - Ankyrin gene mutation
-    correctChoice: Mismatch repair defects
-    questionImage: {fileID: 0}
-  - questionInfo: 'The least important test in pre-marital work up for anemia is:'
-    questionChoices:
-    - Hemoglobin electrophoresis
-    - Mean cell volume
-    - Serum haptoglobin
-    - Blood film
-    correctChoice: Serum haptoglobin
-    questionImage: {fileID: 0}
-  - questionInfo: Pregnant women who have begun labor but in whom this process is
-      no longer progressing are often given an IV injection of Pitocin to stimulate
-      uterine contractions and facilitate parturition. Pitocin is a trade name of
-      a hormone produced in what endocrine tissue?
-    questionChoices:
-    - Pars distalis
-    - Ovarian follicles
-    - Pars nervosa
-    - Pars tuberalis
-    correctChoice: Pars nervosa
+    - Prosencephalon
+    - Diencephalon
+    - Myelencephalon
+    - Mesencephalon
+    correctChoice: Prosencephalon
     questionImage: {fileID: 0}
   _10pointQ:
-  - questionInfo: Which of the following is a book written by Al-Jahiz
+  - questionInfo: "Who is credited with the saying \u201Cthe end justifies the means\u201D?"
     questionChoices:
-    - The beginning and the end
-    - Art of war
-    - Stingy people
-    - Pathoma
-    correctChoice: Stingy people
+    - Machiavelli
+    - Nietzsche
+    - Martin Luther king
+    - Aristotle
+    correctChoice: Machiavelli
     questionImage: {fileID: 0}
-  - questionInfo: The largest gulf in the world is
+  - questionInfo: What is the name of the device used to measure wind speed?
     questionChoices:
-    - Gulf of Arabia
-    - Gulf of Bengal
-    - Gulf of Panama
-    - The Gulf Of Mexico
-    correctChoice: Gulf of Arabia
+    - Hydrometer
+    - Barometer
+    - Thermometer
+    - Anemometer
+    correctChoice: Anemometer
     questionImage: {fileID: 0}
-  - questionInfo: The capital of Portugal is
+  - questionInfo: 'The greatest expansion of the Islamic state occurred during the
+      caliphate of:'
     questionChoices:
-    - Lisbon
-    - Benfica
-    - Al-Naser
-    - Stockholm
-    correctChoice: Lisbon
+    - 'Hisham ibn Abd al-Malik '
+    - 'Al-Walid ibn Abd al-Malik   '
+    - 'Muawiya ibn Abi Sufyan '
+    - 'Harun al-Rashid '
+    correctChoice: 'Al-Walid ibn Abd al-Malik   '
     questionImage: {fileID: 0}
-  - questionInfo: The gas that makes up 75% of the sun's total mass is
+  - questionInfo: Who discovered penicillin?
     questionChoices:
-    - carbon
-    - Nitrogen
-    - hydrogen
-    - oxygen
-    correctChoice: hydrogen
-    questionImage: {fileID: 0}
-  - questionInfo: His Majesty King Abdullah II assumed his constitutional powers
-      in
-    questionChoices:
-    - 1999
-    - 2000
-    - 2003
-    - 1998
-    correctChoice: 1999
-    questionImage: {fileID: 0}
-  - questionInfo: The smallest country in the world
-    questionChoices:
-    - Qatar
-    - Al-Bahrain
-    - Vatican
-    - Kuwait
-    correctChoice: Vatican
+    - 'Alexander Fleming '
+    - 'Rosalind Franklin   '
+    - 'Louis Pasteur   '
+    - 'Robert Koch '
+    correctChoice: 'Alexander Fleming '
     questionImage: {fileID: 0}
   quizUIobj: {fileID: 609381636}
   timerObj: {fileID: 1981497918}
@@ -3645,7 +3565,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 60ecafdf1113fa447acf78a70a773e95, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
