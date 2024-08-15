@@ -3539,221 +3539,317 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   finalQuestions:
-  - questionInfo: Which of the following terms refers to immotile parasites?
+  - questionInfo: Which of the following statements is true about diastereomers?
     questionChoices:
-    - Sporozoa (Apicomplexa)
-    - 'Flagellates '
-    - 'Ciliates '
-    - Nematodes
-    correctChoice: Sporozoa (Apicomplexa)
+    - They have identical physical properties such as melting points  and solubility.
+    - They are mirror images and non-superimposable.
+    - They are non mirror images stereoisomers and non superimposable.
+    - They rotate plane-polarized light in opposite directions by the  same amount.
+    correctChoice: They are non mirror images stereoisomers and non superimposable.
     questionImage: {fileID: 0}
-  - questionInfo: Which of the following dermatophytes is primarily responsible for
-      alopecia?
+  - questionInfo: A 31-year-old woman, who has two healthy children, notes that she
+      has  had no menstrual periods for the past 6 months, but she is not pregnant 
+      and takes no medications. Within the past week, she has noted some  milk production
+      from her breasts. After nearly hitting a bus while  changing lanes driving
+      her vehicle, she is concerned with her vision. An  optometrist finds her lateral
+      vision to be reduced. On physical  examination she is afebrile and normotensive.
+      Which of the following  laboratory test findings is most likely to be present
+      in this woman?
     questionChoices:
-    - Microsporum canis
-    - Trichophyton rubrum
-    - Epidermophyton floccosum
-    - Trichophyton tonsurans
-    correctChoice: Trichophyton tonsurans
+    - Increased serum cortisol
+    - Lack of growth hormone suppression
+    - Increased serum alkaline phosphatase
+    - Hyperprolactinemia
+    correctChoice: Hyperprolactinemia
     questionImage: {fileID: 0}
-  - questionInfo: Which of the following is the Gram-positive, spore-forming, aerobic
-      bacterium that causes gastroenteritis?
+  - questionInfo: A 47-year-old woman feels a 'lump' in her neck that she didn't
+      notice 5  months before. Her physician's assistant palpates a firm nodule 2
+      cm in  size to the left of midline in the region of the thyroid gland. By 
+      scintigraphic scanning this nodule appears 'cold' with normal activity in 
+      the surrounding normally sized thyroid gland. Which of the following is  the
+      most likely diagnosis?
     questionChoices:
-    - 'Escherichia coli '
-    - 'Bacillus anthracis '
-    - 'Salmonella enterica '
-    - Bacillus cereus
-    correctChoice: Bacillus cereus
+    - Papillary carcinoma
+    - Follicular adenoma
+    - Granulomatous thyroiditis
+    - Hashimoto thyroiditis
+    correctChoice: Follicular adenoma
     questionImage: {fileID: 0}
-  - questionInfo: Which of the following is the most common species of lung fluke?
+  - questionInfo: A patient diagnosed with thiamin deficiency exhibited fatigue and
+      muscle  cramps. The muscle cramps have been related to an accumulation of 
+      metabolic acids. Which one of the following metabolic acids is most likely
+      to  accumulate in a thiamin deficiency?
     questionChoices:
-    - 'Fasciola hepatica '
-    - 'Schistosoma mansoni '
-    - 'Paragonimus westermani '
-    - Taenia solium
-    correctChoice: 'Paragonimus westermani '
+    - Isocitric acid
+    - Pyruvic acid
+    - Succinic acid
+    - Malic acid
+    correctChoice: Pyruvic acid
     questionImage: {fileID: 0}
-  - questionInfo: Wrist drop can result from damage to the ________ nerve.
+  - questionInfo: "A 36-year-old woman comes to the office due to firm, nontender 
+      swelling of her right cheek for the past 4 months. She\u2019s not a smoker
+      a  drinks a wine glass almost every night. Physical examination shows  fullness
+      of the preauricular space on the right side. If left untreated, this  patient
+      is most likely to develop which of the following?"
     questionChoices:
-    - median
-    - ulnar
-    - radial
-    - axillary
-    correctChoice: radial
+    - Bitemporal hemianopsia
+    - Facial droop
+    - Facial numbness
+    - Horner syndrome
+    correctChoice: Facial droop
     questionImage: {fileID: 0}
-  - questionInfo: Which of the following DNA viruses causing pneumonia can be prevented
-      by vaccination?
+  - questionInfo: The product of the p53 antioncogene is a nuclear protein that regulates 
+      DNA replication and prevents the proliferation of cells with damaged  DNA.
+      It does this by stopping the cell cycle at which point?
     questionChoices:
-    - 'Herpes Simplex Virus type 1 '
-    - 'Cytomegalovirus '
-    - 'Varicella-zoster virus '
-    - Adenoviruses type 4 and type 7
-    correctChoice: Adenoviruses type 4 and type 7
+    - Between G1 and S
+    - Between G2 and M
+    - Between M and G1
+    - Between S and G2
+    correctChoice: Between G1 and S
     questionImage: {fileID: 0}
-  - questionInfo: Which Toll-like receptor recognizes bacterial flagellin?
+  - questionInfo: the loop of Henle plays an important role in concentrating urine
+      by generating  a hypertonic medullary interstitium in a process called countercurrent 
+      multiplication. Which of the following is true regarding the loop of Henle?
     questionChoices:
-    - 'Toll-like receptor 1 '
-    - 'Toll-like receptor 3 '
-    - 'Toll-like receptor 5 '
-    - 'Toll-like receptor 9 '
-    correctChoice: 'Toll-like receptor 5 '
+    - 64-80% of sodium is reabsorbed in the loop of henle
+    - The thick ascending loop of henle is impermeable to sodium
+    - "The Na\u2014K-2Cl channel is located on the apical surface of cells in the 
+      thick ascending loop of henle"
+    - The Na/Ca exchanger on the thin limb increases the calcium  reabsorption
+    correctChoice: "The Na\u2014K-2Cl channel is located on the apical surface of
+      cells in the  thick ascending loop of henle"
     questionImage: {fileID: 0}
-  - questionInfo: The action of an ACE inhibitor interrupts the renin-angiotensin-aldosterone
-      mechanism, thereby producing which of the following?
+  - questionInfo: 'Highest incidence of antibiotic associated pseudo membranous 
+      colitis has been noted with the use of:'
     questionChoices:
-    - Reduced renal blood flow
-    - Reduced sodium and water excretion
-    - Increased peripheral vascular resistance
-    - Increased sodium excretion and potassium reabsorption
-    correctChoice: Increased sodium excretion and potassium reabsorption
+    - Chloramphenicol
+    - Vancomycin
+    - Clindamycin
+    - Gentamycin
+    correctChoice: Clindamycin
     questionImage: {fileID: 0}
-  - questionInfo: 'Spaghetti and meatball pattern in microscopic examination indicates
-      an infection by:'
+  - questionInfo: 'Which of the following drugs will be absorbed to the LEAST extent 
+      in the stomach:'
     questionChoices:
-    - Malassezia
-    - Candida
-    - Aspergillus
-    - Trichophyton
-    correctChoice: Malassezia
+    - Aspirin (pKa = 3.5)
+    - 'Warfarin (pKa =5) '
+    - 'Phenobarbital (pKa = 7.4) '
+    - Propranolol (pKa = 9.4)
+    correctChoice: Propranolol (pKa = 9.4)
     questionImage: {fileID: 0}
-  - questionInfo: 'Exposure of pleural space to atmospheric air, the lung will have
-      tendency to:'
+  - questionInfo: Which of the following classes of adrenergic agents has utility
+      in  the management of hypertension?
     questionChoices:
-    - expands to a maximum volume.
-    - collapse to a residual volume.
-    - collapse to a minimal volume.
-    - become fixed at the FRC.
-    correctChoice: collapse to a minimal volume.
+    - Alpha1 Agonist
+    - Alpha 2 Agonist
+    - 'Beta1 Agonist '
+    - 'Beta3 Agonist '
+    correctChoice: Alpha 2 Agonist
     questionImage: {fileID: 0}
-  - questionInfo: 'Which of the following is true regarding diffuse type gastric
-      carcinoma:'
+  - questionInfo: A patient who received a non depolarizing neuromuscular blocker 
+      (NMB) for skeletal muscle relaxation during surgery is experiencing mild  skeletal
+      muscle paralysis after the surgery. Which drug could reverse  this effect of
+      NMBs?
     questionChoices:
-    - Preceded by chronic gastritis and intestinal metaplasia
-    - Mutation of E cadherin gene is characteristic
-    - Typically presents as a fungating bulky mass
-    - Strongly linked to helicobacter pylori gastritis
-    correctChoice: Mutation of E cadherin gene is characteristic
+    - Pilocarpine
+    - Bethanechol
+    - Neostigmine
+    - Atropine
+    correctChoice: Neostigmine
     questionImage: {fileID: 0}
-  - questionInfo: A 25-year-old man presented complaining of steatorrhea and found
-      to have iron deficiency anemia. Serology showed elevated levels of anti TTG
-      and anti-endomysial antibodies. What would you expect to see upon microscopic
-      examination of a biopsy from the duodenum for this patient?
+  - questionInfo: 'Wrong about Norma Verticalis (looking at the skull from above): '
     questionChoices:
-    - Lipid accumulation in the cytoplasm of epithelial cells
-    - Increased intraepithelial lymphocytes and villous atrophy
-    - Marked neutrophils infiltration
-    - Dilated lymphatic spaces
-    correctChoice: Increased intraepithelial lymphocytes and villous atrophy
+    - Coronal suture seperates frontal bone from parietal bones
+    - Bregma is the site of the posterior fontanelle
+    - ' Lambdoid suture separates parietal bones from occipital bone'
+    - 'Sagittal suture is between the parietal bones '
+    correctChoice: Bregma is the site of the posterior fontanelle
     questionImage: {fileID: 0}
-  - questionInfo: 'Regarding bronchiectasis, one of the following statements is CORRECT: '
+  - questionInfo: Your patient is a 30-year-old man with persistent watery diarrhea 
+      for 2 weeks. He is HIV antibody positive with a CD4 count of 10. Routine  stool
+      culture revealed no bacterial pathogen. Ova and parasite analysis  revealed
+      cysts that stained red in an acid-fast stain. Of the following,  which one
+      is the most likely cause of this infection?
     questionChoices:
-    - "It\u2019s a primary inherited pulmonary disease. "
-    - 'Considered as reversable obstructive pulmonary disease. '
-    - 'Heals with complete resolution and no fibrosis. '
-    - Patients present with cough and purulent sputum.
-    correctChoice: Patients present with cough and purulent sputum.
+    - Cryptosporidium hominis
+    - Entamoeba histolytica
+    - Giardia lamblia
+    - Trichomonas vaginalis
+    correctChoice: Cryptosporidium hominis
     questionImage: {fileID: 0}
-  - questionInfo: 'A 17-year-old boy was involved in a gang fight. It started as
-      an argument but quickly worsened into a street brawl with the use of knives.
-      He was examined in the emergency department and found to have a bleeding stab
-      wound in his left flank. A urine specimen revealed frank blood. Stab wounds
-      of the kidneys involve other abdominal organs in a high percentage of cases.
-      Of the organs listed, which one is least likely to be damaged in this patient? '
+  - questionInfo: 'An 11-year-old boy develops a mild fever and pain in his upper 
+      arm. A radiograph of his arm shows a lytic lesion (dissolution) in the  upper
+      part of the humerus with periosteal elevation over the lesion. The  patient
+      is taken to surgery, where the lesion is debrided (dead bone and  pus removed).
+      Culture from the lesion yields gram-positive cocci. A test  shows that the
+      organism is a Staphylococcus and not a Streptococcus.  Based on this information,
+      you know the organism is:'
     questionChoices:
-    - Inferior vena cava
-    - Left colic flexure
-    - Left suprarenal gland
-    - Body of the pancreas
-    correctChoice: Inferior vena cava
+    - Susceptible to nafcillin
+    - 'A producer of protein A '
+    - 'Encapsulated '
+    - Catalase positive
+    correctChoice: Catalase positive
     questionImage: {fileID: 0}
-  - questionInfo: The following statements concerning the lungs are correct except
-      which?
+  - questionInfo: Tetanus toxin (tetanospasmin) diffuses to terminals of inhibitory
+      cells  in the spinal cord and brainstem and blocks which of the following?
     questionChoices:
-    - Inhaled foreign bodies most frequently enter the right lung.
-    - There are no lymph nodes within the lungs.
-    - The structure of the lungs receives its blood supply from the bronchial arteries.
-    - The costodiaphragmatic recesses are lined with parietal pleura.
-    correctChoice: There are no lymph nodes within the lungs.
+    - Release of acetylcholine
+    - Cleavage of SNARE proteins
+    - Release of inhibitory glycine and y-aminobutyric acid
+    - Activation of acetylcholine esterase
+    correctChoice: Release of inhibitory glycine and y-aminobutyric acid
     questionImage: {fileID: 0}
-  - questionInfo: Hyperextension of the proximal phalanges of the little and ring
-      fingers (i.e., claw hand) can result from damage to the ________ nerve.
+  - questionInfo: A 2-month old boy is evaluated for failure to thrive. His parents
+      state  the child used to breast feed regularly but has fed only intermittently
+      for the  past week. On exam, a murmur is heard best at the left 2nd intercostal
+      space. There is a loud S2. Peripheral pulses are bounding. Pulse pressure is 
+      widened. Which of the following conditions is most likely in this child?
     questionChoices:
-    - ulnar
-    - axillary
-    - radial
-    - median
-    correctChoice: ulnar
+    - Aortic coarctation
+    - Atrial septal defect
+    - Ventricular septal defect
+    - Patent ductus arteriosus
+    correctChoice: Patent ductus arteriosus
     questionImage: {fileID: 0}
-  - questionInfo: Which of the following represents the alternative pathway C5 convertase?
+  - questionInfo: "A 38-year-old primigravid woman comes to the office at 18 weeks 
+      gestation due to palpitations and pelvic pressure. She has been consistent 
+      with prenatal care. She is following a healthy diet and takes prenatal vitamins 
+      daily. Temperature is 37.5\xB0C (99.5\xB0F), pulse is 110/min, and blood pressure
+      is  130/80 mmHg. On physical examination, uterus size is consistent with 22 
+      weeks of gestation. Laboratory tests show hCG concentrations of 110,000  mIU/mL.
+      TSH is 0.1 \u03BCU/mL. An abdominal ultrasound is obtained and shown  below.
+      Further evaluation would most likely reveal which of the following karyotypes?"
     questionChoices:
-    - 'C3b-Bb-C3b '
-    - C4b2a3b
-    - 'C5b-7 complex '
-    - Factor Xa
-    correctChoice: 'C3b-Bb-C3b '
+    - 46, XX
+    - 47, XY+21
+    - 69, XYY
+    - 46, XO
+    correctChoice: 46, XX
+    questionImage: {fileID: 21300000, guid: 0160aaca786683d4cb88d250e1ac34a2, type: 3}
+  - questionInfo: A 49-year-old woman has had increasing cold intolerance, weight 
+      gain of 4 kg, and sluggishness over the past two years. A physical  examination
+      reveals dry, coarse skin and alopecia of the scalp. Her  thyroid is not palpably
+      enlarged. Her serum TSH is 11.7 mU/L with  thyroxine of 2.1 micrograms/dL.
+      A year ago, anti-thyroglobulin and anti thyroid peroxidase autoantibodies were
+      detected at high titer. Which of   the following thyroid diseases is she most
+      likely to have?
+    questionChoices:
+    - DeQuervain disease
+    - Papillary carcinoma
+    - Hashimoto thyroiditis
+    - Multinodular goiter
+    correctChoice: Hashimoto thyroiditis
     questionImage: {fileID: 0}
-  - questionInfo: A patient is unable to taste a piece of sugar placed on the anterior
-      part of the tongue. Which cranial nerve is likely to have a lesion?
+  - questionInfo: A 45-year-old man presents with a several-month history of weakness 
+      in his lower and upper extremities. On examination, in addition to weakness 
+      in multiple muscle groups, he demonstrates atrophy, hyperreflexia,  spasticity
+      of the legs, and bilateral Babinski signs. Fasciculations in multiple  muscles
+      are also noted. His sensation to pain, temperature, and joint  position sense
+      appear intact. What is his most likely diagnosis?
     questionChoices:
-    - Hypoglossal
-    - Vagus
-    - Glossopharyngeal
-    - Facial
-    correctChoice: Facial
+    - 'Amyotrophic lateral sclerosis (ALS) '
+    - Vitamin B12 deficiency
+    - Anterior spinal artery syndrome
+    - Central cord syndrome
+    correctChoice: 'Amyotrophic lateral sclerosis (ALS) '
     questionImage: {fileID: 0}
-  - questionInfo: 'In the walls of the orbit, the ethmoid bone contributes to the
-      formation of the:'
+  - questionInfo: A patient with asthma was prescribed a 32 agonist for acute relief
+      of  bronchospasm, but did not respond to treatment. Which drug is the most 
+      likely next option for this patient?
     questionChoices:
-    - Medial orbital wall
-    - Inferior orbital wall
-    - Lateral orbital margin
-    - Superior orbital margin
-    correctChoice: Medial orbital wall
+    - Benztropine
+    - Ipratropium
+    - Oxybutynin
+    - Physostigmine
+    correctChoice: Ipratropium
     questionImage: {fileID: 0}
-  - questionInfo: 'The hyoid bone is connected to the scapula through ___ muscle: '
+  - questionInfo: People with red hair, who have a mutation in the MC1R gene and
+      are  homozygous for this mutation, produce high levels of which of the following 
+      molecules, derived from which amino acid?
     questionChoices:
-    - Omohyoid
-    - Mylohyoid
-    - Stylohyoid
-    - Geniohyoid
-    correctChoice: Omohyoid
+    - Eumelanin, which is a derivative of tyrosine
+    - Pheomelanin, which is a derivative of tyrosine
+    - Eumelanin, which is a derivative of tryptophan
+    - Pheomelanin, which is a derivative of tryptophan
+    correctChoice: Pheomelanin, which is a derivative of tyrosine
     questionImage: {fileID: 0}
-  - questionInfo: 'The Posterior fontanelle is located at the: '
+  - questionInfo: Which of the following lipids is prominent in cardiac tissue and
+      known  for its antioxidant properties?
     questionChoices:
-    - Pterion
-    - Bregma
-    - Lambda
-    - Asterion
-    correctChoice: Lambda
+    - Ethanolamine plasmalogen
+    - Cardiolipin
+    - Lecithins
+    - Inositid
+    correctChoice: Ethanolamine plasmalogen
     questionImage: {fileID: 0}
-  - questionInfo: 'An acute decrease in arterial blood pressure elicits which of
-      the following compensatory changes? '
+  - questionInfo: Regarding protine-DNA interaction, which of the following amino
+      acid  characteristics would most likely enhance the specificity of these  interactions,
+      and where would it mostly happen ?
     questionChoices:
-    - Decreased firing rate of the carotid sinus nerve
-    - Increased parasympathetic outflow to the heart
-    - Decreased mean systemic filling pressure
-    - Decreased heart rate
-    correctChoice: Decreased firing rate of the carotid sinus nerve
+    - Hydrophobic side chains, minor groove
+    - Positively charged side chains, major groove
+    - Aromatic side chains, major groove
+    - Polar uncharged side chains, major groove
+    correctChoice: Positively charged side chains, major groove
     questionImage: {fileID: 0}
-  - questionInfo: If the ejection fraction increases, there will be a decrease in?
+  - questionInfo: 'A 10-year-old child presents with a sore throat for the past 3
+      days,  accompanied by a mild headache, fatigue, and fever. On examination,
+      he has  petechiae on the hard and soft palates with swollen tonsils. He was 
+      suspected to have pharyngitis and was treated with ampicillin. Subsequently, 
+      he developed a widely scattered maculopapular rash. The patient is most  likely
+      infected with:'
     questionChoices:
-    - cardiac output
-    - end-systolic volume
-    - heart rate
-    - pulse pressure
-    correctChoice: end-systolic volume
+    - 'Streptococcus pyrogens '
+    - Epstein Barr virus
+    - Enteroviruses
+    - Neisseria gonorrhoeae
+    correctChoice: Epstein Barr virus
     questionImage: {fileID: 0}
-  - questionInfo: 'A patient admitted to the emergency room. Upon arrival, a blood
-      test has been taken to test for his ABGs and the results as follows: pH = 7.48;
-      pCO2 = 50 mmHg; and [HCO3-] = 30mmol/L. The following represents the normal
-      ABGs. This patient suffers from:'
+  - questionInfo: The production of estrogen involves coordinated enzymatic activities 
+      between the theca and granulosa cells of the ovarian follicle. Which of the 
+      following most appropriately describes the function of estrogen?
     questionChoices:
-    - Fully compensated metabolic alkalosis
-    - Partially compensated metabolic alkalosis
-    - Fully compensated respiratory alkalosis
-    - Partially compensated respiratory alkalosis
-    correctChoice: Partially compensated metabolic alkalosis
-    questionImage: {fileID: 21300000, guid: 5a63fa307af98a944bf832bcac9faafc, type: 3}
+    - Facilitates the development of internal and external genitalia
+    - Produces thick cervical mucous
+    - Prevents endometrial hyperplasia
+    - Decrease myometrial excitability in pregnancy
+    correctChoice: Facilitates the development of internal and external genitalia
+    questionImage: {fileID: 0}
+  - questionInfo: In an experiment, it is observed that chronic, increased exposure
+      to  ionizing radiation results in damage to cellular DNA. As a consequence,
+      a  protein is now absent that would arrest the cell in the G1 phase of the
+      cell  cycle. Subsequent to this, the cell is transformed to acquire the property
+      of  unregulated growth. The absent protein is most likely the product of which
+      of  the following genes?
+    questionChoices:
+    - RAS
+    - TP53
+    - MYC
+    - ABL
+    correctChoice: TP53
+    questionImage: {fileID: 0}
+  - questionInfo: 'Hemolysis following sulfonamide therapy is most likely due to:'
+    questionChoices:
+    - Methemoglobin reductase deficiency
+    - 'G-6-PD deficiency '
+    - Vitamin K epoxide reductase deficiency
+    - Thiopurine methyltransferase deficiency
+    correctChoice: 'G-6-PD deficiency '
+    questionImage: {fileID: 0}
+  - questionInfo: "48-year-old female visits your office complaining that she has
+      trouble  swallowing solids and liquids has persistent, bad breath, and sometimes 
+      wakes up with food on her pillow. Manometry studies show an absence of  functional
+      peristalsis and failure of the lower esophageal phincter to relax  upon swallowing.
+      The patient\u2019s disorders is associated with damage to which  of the following?"
+    questionChoices:
+    - lamina propria
+    - Submucosa
+    - "Myenteric (Auerbach\u2019s) plexus"
+    - "Submucosal (Meissner\u2019s) plexus"
+    correctChoice: "Myenteric (Auerbach\u2019s) plexus"
+    questionImage: {fileID: 0}
   quizUIobj: {fileID: 609381637}
   timerObj: {fileID: 1273828348}
 --- !u!1 &1050682124
@@ -5610,8 +5706,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 876.8369, y: 519.54224}
-  m_SizeDelta: {x: 597.5608, y: 139.2999}
+  m_AnchoredPosition: {x: 876.8369, y: 459.86188}
+  m_SizeDelta: {x: 597.5608, y: 258.6606}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2115032892
 MonoBehaviour:
@@ -5696,7 +5792,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: 0, w: 1.7110902}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
