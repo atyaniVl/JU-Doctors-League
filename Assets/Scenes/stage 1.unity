@@ -3085,131 +3085,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _30pointQ:
-  - questionInfo: ' IV drug usage is a unique risk factor for infective endocarditis 
-      affecting the:'
+  - questionInfo: 
     questionChoices:
-    - Tricuspid valve
-    - Pulmonary valve
-    - 'Aortic valve '
-    - Mitral valve
-    correctChoice: Tricuspid valve
+    - 
+    - 
+    - 
+    - 
+    correctChoice: 
     questionImage: {fileID: 0}
-  - questionInfo: What is the best approach to calculating intracellular fluid  volume?
+  - questionInfo: 
     questionChoices:
-    - 'Using radioactive water '
-    - Using thiosulfate
-    - Using potassium
-    - "It can\u2019t be measured directly"
-    correctChoice: "It can\u2019t be measured directly"
-    questionImage: {fileID: 0}
-  - questionInfo: A type B blood group, Rh-positive recipient is mistakenly  transplanted
-      with a kidney from a type A blood group, Rh-negative  donor. Which of the following
-      best describes the mechanism of  transplant rejection that is most likely to
-      ensue in this recipient?
-    questionChoices:
-    - Acute rejection mediated by preformed recipient antibodies
-    - Acute rejection mediated by recipient T lymphocytes
-    - 'Hyperacute rejection mediated by preformed donor  antibodies '
-    - Hyperacute rejection mediated by preformed recipient  antibodies
-    correctChoice: Hyperacute rejection mediated by preformed recipient  antibodies
-    questionImage: {fileID: 0}
-  - questionInfo: 'The wrong statement about cranial nerves:'
-    questionChoices:
-    - The fifth cranial nerve is motor to the muscles of mastication
-    - 'The eighth cranial nerve is purely sensory  '
-    - 'They do not all originate from the brain stem '
-    - The tenth cranial nerve is motor to trapezius muscle
-    correctChoice: The tenth cranial nerve is motor to trapezius muscle
-    questionImage: {fileID: 0}
-  - questionInfo: 'As part of an experiment, radiolabeled ATP is injected into skeletal 
-      muscle. During muscle contraction, the labeled ATP is observed to  attach to
-      the sarcomere. This attachment causes immediate:'
-    questionChoices:
-    - Calcium binding to troponin C
-    - Tropomyosin displacement from the groove on the actin molecule
-    - 'Myosin head detachment from the actin filament '
-    - Cross-bridge formation
-    correctChoice: 'Myosin head detachment from the actin filament '
-    questionImage: {fileID: 0}
-  - questionInfo: Which type of lung tumor is known for being the most aggressive
-      and  widely metastatic?
-    questionChoices:
-    - Adenocarcinoma
-    - Small cell lung carcinoma
-    - Large cell neuroendocrine carcinoma
-    - Squamous cell carcinoma
-    correctChoice: Small cell lung carcinoma
-    questionImage: {fileID: 0}
-  - questionInfo: How do cis and trans configurations of fatty acids affect membrane
-      fluidity?
-    questionChoices:
-    - Both cis and trans configurations increase membrane rigidity by  altering hydrogen
-      bonding.
-    - 'Cis double bonds disrupt Van der Waals interactions, enhancing  fluidity;
-      trans double bonds do not. '
-    - Cis configurations create kinks, increasing fluidity; trans configurations 
-      are linear, decreasing fluidity.
-    - Cis configurations form looser hydrophobic interactions, increasing  fluidity;
-      trans configurations promote a gel-like state, decreasing  fluidity.
-    correctChoice: Cis configurations create kinks, increasing fluidity; trans configurations 
-      are linear, decreasing fluidity.
-    questionImage: {fileID: 0}
-  - questionInfo: "A 30-year-old woman of northern Europe ancestry presents with 
-      progressive dyspnea. She denies the use of cigarettes. Family history  reveals
-      that her sister also has problems with her lungs. Which of the  following most
-      likely explains the patient\u2019s pulmonary symptoms?"
-    questionChoices:
-    - Deficiency in dietary vitamin C
-    - Deficiency in alpha-1-antitrypsin
-    - Deficiency of prolyl hydroxylase
-    - Decreased elastase activity
-    correctChoice: Deficiency in alpha-1-antitrypsin
-    questionImage: {fileID: 0}
-  - questionInfo: Which of the following holds the heavy and light chains together
-      to  make the three-dimensional structure of the antibody?
-    questionChoices:
-    - Disulfide bonds
-    - Hydrogen bonds
-    - Ionic bonds
-    - Triple covalent bonds
-    correctChoice: Disulfide bonds
-    questionImage: {fileID: 0}
-  - questionInfo: 'Mononuclear phagocyte system, chose the incorrect statement:'
-    questionChoices:
-    - Kupffer cells have the same function as macrophages in the liver
-    - Langerhans cells are specialized in antigen processing and  presentation in
-      the spleen
-    - 'Osteoclasts are giant multi nuclear cells '
-    - 'All choices are correct '
-    correctChoice: Langerhans cells are specialized in antigen processing and  presentation
-      in the spleen
-    questionImage: {fileID: 0}
-  - questionInfo: 'One of the following is correct regarding the pathogenesis of
-      Erythema  infectiosum:'
-    questionChoices:
-    - The rash result from immune reaction to the virus manifesting in  the skin.
-    - 'The symptoms arise from immune complex deposition in the skin  and joints. '
-    - The virus attaches to epithelial cells in the gut.
-    - ' Exanthem results from neutralizing antibodies in the  bloodstream.'
-    correctChoice: 'The symptoms arise from immune complex deposition in the skin 
-      and joints. '
-    questionImage: {fileID: 0}
-  - questionInfo: A 75-year-old male dies and autopsy specimens are harvested from
-      his  brain. Histology is shown below. Prior to his death the patient suffered 
-      progressive functional deterioration with onset 10 years previous. At the 
-      age of 65, a tremor was noticed in his right hand. Initially the tremor only 
-      occurred at rest but with disease progression became noticeable during  purposeful
-      movement as well. At age 70, the tremor progressed to  include his left hand.
-      The patient's gait also became impaired as he had  short stride and limited
-      arm-swing. Which of the following best  describes the pathogenesis of the patient's
-      disease process?
-    questionChoices:
-    - Cortical atrophy associated with b-amyloid plaques and  decreased cholinergic
-      activity
-    - Defective copper transport leading to the accumulation of copper  in tissues
-    - Loss of y-aminobutyric acidergic neurons in the caudate nucleus
-    - Loss of dopaminergic neurons in the substantia nigra
-    correctChoice: Loss of dopaminergic neurons in the substantia nigra
+    - 
+    - 
+    - 
+    - 
+    correctChoice: 
     questionImage: {fileID: 0}
   _50pointQ:
   - questionInfo: "An elderly patient is diagnosed with aggressive non-Hodgkin\u2019s 
