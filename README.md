@@ -83,15 +83,6 @@ JU doctors League/
 |- ProjectSettings/
 ```
 
-## How To Open And Run
-
-1. Open Unity Hub.
-2. Add this project folder:
-	 - `JU doctors League`
-3. Open the project using Unity `2021.3.33f1`.
-4. Open `Assets/Scenes/main menu.unity`.
-5. Press Play in the Unity Editor.
-
 ## Configuration Notes
 
 - Questions are configured in serialized lists inside quiz manager components:
@@ -100,21 +91,6 @@ JU doctors League/
 - Question images are optional and shown through the UI image toggle.
 - Ensure audio clips are assigned in the `SoundManager` inspector.
 - Ensure scene indices/build settings are configured for scene navigation.
-
-## Recommended Build Checklist
-
-- Add all required scenes to `File > Build Settings` in the intended order.
-- Verify all button references and serialized fields are assigned.
-- Verify timer and audio sources are assigned.
-- Test stage transitions and timeout behavior.
-
-## Future Improvements
-
-- Add score persistence and leaderboard support.
-- Add randomization controls and difficulty balancing.
-- Add Arabic/English localization support.
-- Add automated editor validation for missing references.
-- Improve script naming consistency and typo cleanup.
 
 ## Project Purpose
 
