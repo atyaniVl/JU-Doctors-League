@@ -6,6 +6,24 @@ This project is a Unity-based trivia game developed for the Jordan University's 
 
 Players progress through multiple stages of medical quiz rounds, answer timed multiple-choice questions, and receive immediate feedback with audio and UI transitions.
 
+## ScreenShots
+<p align="center">
+	<img width="380" alt="Screenshot 2026-04-20 063520" src="https://github.com/user-attachments/assets/77296ee4-c091-489f-8214-77d5f7632e72" />
+	<img width="380" alt="Screenshot 2026-04-20 063526" src="https://github.com/user-attachments/assets/542b04a8-fb35-4376-b98e-4421faeb0e5d" />
+
+</p>
+
+<p align="center">
+  <img width="380" alt="Screenshot 2026-04-20 063533" src="https://github.com/user-attachments/assets/107d768e-1827-409f-adee-b2d9d6d21ddc" />
+  
+</p>
+
+<p align="center">
+    <img width="380" alt="Screenshot 2026-04-20 063602" src="https://github.com/user-attachments/assets/e8fed93b-a9ef-4991-9479-081c9279bcfa" />
+  <img width="380" alt="Screenshot 2026-04-20 063556" src="https://github.com/user-attachments/assets/ebac2922-cea0-48b4-b072-178ee5f0a88e" />
+</p>
+
+
 ## Project Highlights
 
 - Multi-stage quiz experience with dedicated scenes for menu, stages, and stage transitions.
