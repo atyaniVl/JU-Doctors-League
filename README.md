@@ -14,13 +14,13 @@ Players progress through multiple stages of medical quiz rounds, answer timed mu
 </p>
 
 <p align="center">
-  <img width="380" alt="Screenshot 2026-04-20 063533" src="https://github.com/user-attachments/assets/107d768e-1827-409f-adee-b2d9d6d21ddc" />
-  
+  	<img width="380" alt="Screenshot 2026-04-20 063533" src="https://github.com/user-attachments/assets/107d768e-1827-409f-adee-b2d9d6d21ddc" />
+  	<img width="380" alt="Screenshot 2026-04-20 063602" src="https://github.com/user-attachments/assets/e8fed93b-a9ef-4991-9479-081c9279bcfa" />
+
 </p>
 
 <p align="center">
-    <img width="380" alt="Screenshot 2026-04-20 063602" src="https://github.com/user-attachments/assets/e8fed93b-a9ef-4991-9479-081c9279bcfa" />
-  <img width="380" alt="Screenshot 2026-04-20 063556" src="https://github.com/user-attachments/assets/ebac2922-cea0-48b4-b072-178ee5f0a88e" />
+  	<img width="380" alt="Screenshot 2026-04-20 063556" src="https://github.com/user-attachments/assets/ebac2922-cea0-48b4-b072-178ee5f0a88e" />
 </p>
 
 
